@@ -50,7 +50,7 @@
         <article>
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-sm-6">
+                    <div class="col-sm-8">
                         <div class="card">
                             <div class="card-body">
                             <h5 class="card-title">第一種BMI作法</h5>
@@ -63,7 +63,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6">
+                    <div class="col-sm-8">
                         <div class="card text-white bg-primary border-secondary">
                             <div class="card-body">
                             <h5 class="card-title">第二種BMI作法</h5>
