@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="zh-tw">
 
 <head>
@@ -82,7 +83,7 @@
     </main>
     <footer>
         <p class="text-end text-muted">
-            Updated on 2021/6/16 by 柏翔
+            Updated on 2021/6/16 by Kate
         </p>
     </footer>
     <!-- Optional JavaScript; choose one of the two! -->
