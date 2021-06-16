@@ -83,7 +83,7 @@
     </main>
     <footer>
         <p class="text-end text-muted">
-            Updated on 2021/6/16 by Kate
+            Updated on 2021/6/16 by 柏翔
         </p>
     </footer>
     <!-- Optional JavaScript; choose one of the two! -->
